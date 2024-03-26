@@ -1,0 +1,5 @@
+setup.py
+movie_rental.egg-info/PKG-INFO
+movie_rental.egg-info/SOURCES.txt
+movie_rental.egg-info/dependency_links.txt
+movie_rental.egg-info/top_level.txt
